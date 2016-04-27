@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Example Games/Flappy Bird Style/_Scenes/Main.unity
+- path: Assets/Example Games/Hat Trick - The Catch Game/_Scenes/Hat Trick.unity
   isLoaded: 1
   isActive: 1
